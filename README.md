@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathans-Codes
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Unity and C#
+- 🌱 I’m currently learning Unity and C++
 - 💞️ I’m looking to collaborate on nothing, actually. Not right now.
 - 📫 How to reach me: don't.
 
